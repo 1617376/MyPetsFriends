@@ -1,0 +1,31 @@
+Name,Internal Reference,Sales Price,Cost
+Consulta veterinaria general,SER001,50.00,20.00
+Consulta veterinaria especializada,SER002,80.00,35.00
+Vacunacion antirrabica,SER003,35.00,15.00
+Vacuna multiple canina,SER004,65.00,30.00
+Vacuna triple felina,SER005,60.00,28.00
+Desparasitacion canina,SER006,30.00,12.00
+Desparasitacion felina,SER007,25.00,10.00
+Baño para perros,SER008,45.00,18.00
+Corte de pelo para perros,SER009,55.00,22.00
+Limpieza de oidos,SER010,25.00,10.00
+Alimento balanceado para perros 3kg,ALI001,55.00,38.00
+Alimento para cachorros 3kg,ALI002,60.00,42.00
+Alimento para gatos 1kg,ALI003,30.00,20.00
+Alimento para gatos esterilizados 1kg,ALI004,38.00,25.00
+Snacks saludables para perros,ALI005,15.00,8.00
+Antipulgas para perros,HIG001,45.00,28.00
+Antipulgas para gatos,HIG002,38.00,23.00
+Shampoo veterinario,HIG003,28.00,17.00
+Jabon medicado para mascotas,HIG004,22.00,13.00
+Limpiador de oidos veterinario,HIG005,25.00,14.00
+Termometro veterinario,MVE001,40.00,25.00
+Jeringas descartables,MVE002,3.00,1.50
+Guantes descartables,MVE003,22.00,13.00
+Gasas esteriles,MVE004,15.00,8.00
+Vendas veterinarias,MVE005,12.00,6.00
+Collar isabelino,ACC001,35.00,20.00
+Correa para perros,ACC002,30.00,18.00
+Transportador para mascotas,ACC003,110.00,75.00
+Plato para alimento,ACC004,20.00,12.00
+Cama para mascotas,ACC005,95.00,65.00
