@@ -167,4 +167,4 @@ Sin embargo, algunas características propias de la gestión veterinaria, como l
 
 ## Autoría
 
-**Proyecto académico: MyPetsFriends - Sistema ERP Veterinario.**
+**Proyecto académico: MyPetsFriends - Sistema Veterinario.**
